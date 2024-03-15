@@ -54,29 +54,6 @@ content = """<html>
 <td>1126.1</td>
 <td>UK</td>
 </tr>
-<tr>
-<td>6</td>
-<td>VISMA</td>
-<td>7</td>
-<td>386.5</td>
-<td>386.5</td>
-<td>NORWEGIAN AND SWEDISH</td>
-</tr>
-<tr>
-<td>7</td>
-<td>SWIFT</td>
-<td>8</td>
-<td>471.6</td>
-<td>586.1</td>
-<td>BELGIUM</td>
-</tr>
-<td>8</td>
-<td>MICRO FOCUS</td>
-<td>9</td>
-<td>453.0</td>
-<td>453.0</td>
-<td>BRITISH</td>
-</tr>
 </table>
 </body>
 </html>
